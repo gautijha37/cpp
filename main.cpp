@@ -7,5 +7,6 @@ int main(){
 			out.get() << "of mine" << std::endl;
 		};
 	my_lambda();
+	std::cout<<"\n haha\n";
 	return 0;
 }
